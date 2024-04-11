@@ -1,4 +1,5 @@
-# Decentralized Autonomous Legal Entities  (DALEs)
+# Decentralized Autonomous Legal Entities (DALEs) 
+# DALEs Protocol
 
 Decentralized Autonomous Legal Entities (DALEs) represent a groundbreaking integration of blockchain technology with the traditional legal framework, designed to bridge the gap between the digital and legal worlds. DALEs are conceptualized as blockchain-based organizations or entities that operate autonomously through smart contracts but are also recognized as legal entities by existing legal systems. This dual nature allows them to enjoy the benefits of decentralized governance and operations while adhering to regulatory and legal obligations, thus facilitating their participation in the traditional economic system.
 
@@ -10,4 +11,4 @@ A key component of the DALEs framework is its emphasis on community and open dev
 
 In essence, DALEs are envisioned as a new class of blockchain entities that embody the principles of decentralization and autonomy, while fully integrating into the legal fabric of society. They represent a significant step forward in the evolution of DAOs, offering a scalable and legally compliant framework for decentralized operations and governance. Through DALEs, blockchain technology can achieve broader acceptance and integration into mainstream economic and legal systems, unlocking new possibilities for innovation, collaboration, and governance in the digital age.
 
-![alt text](https://github.com/elvin3x/DALEs/blob/main/dales-concept-diagram.png?raw=true)
+![diagram dales](https://github.com/elvin3x/DALEs/blob/main/dales-concept-diagram.png?raw=true)
