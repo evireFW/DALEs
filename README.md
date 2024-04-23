@@ -11,4 +11,12 @@ A key component of the DALEs framework is its emphasis on community and open dev
 
 In essence, DALEs are envisioned as a new class of blockchain entities that embody the principles of decentralization and autonomy, while fully integrating into the legal fabric of society. They represent a significant step forward in the evolution of DAOs, offering a scalable and legally compliant framework for decentralized operations and governance. Through DALEs, blockchain technology can achieve broader acceptance and integration into mainstream economic and legal systems, unlocking new possibilities for innovation, collaboration, and governance in the digital age.
 
+# Legislation 
+
+The legislative framework for Decentralized Autonomous Legal Entities (DALEs) must address various complex legal considerations, including the concept of liquid ownership. 
+- Bearer shares
+Bearer shares are a type of equity security that is owned by whoever holds the physical stock certificate, making the ownership anonymous and easily transferable. Similarly, in DALEs, digital tokens could represent ownership or voting rights, circulating freely while remaining encrypted and secure on the blockchain.
+
+For DALEs to function within legal boundaries while utilizing concepts similar to bearer shares, legislation must ensure that such structures comply with international standards, particularly in areas like anti-money laundering (AML) and counter-terrorism financing (CTF). Laws could require that DALEs incorporate mechanisms for tracking ownership and maintaining transparency in transactions, despite the inherently anonymous nature of blockchain.
+
 ![diagram dales](https://github.com/elvin3x/DALEs/blob/main/dales-concept-diagram.png?raw=true)
