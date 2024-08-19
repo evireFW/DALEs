@@ -54,6 +54,6 @@
   "dependencies": {
     "@opengsn/contracts": "2.2.6",
     "@openzeppelin/contracts": "^4.8.1",
-    "@openzeppelin/contracts-upgradeable": "4.8.1"
+    "@openzeppelin/contracts-upgradeable": "4.9.6"
   }
 }
